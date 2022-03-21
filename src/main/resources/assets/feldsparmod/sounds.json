@@ -1,0 +1,20 @@
+{
+  "kuduro": {
+    "subtitle": "subtitles.kuduro",
+    "sounds": [
+      {
+        "name": "feldsparmod:kuduro",
+        "stream": true
+      }
+    ]
+  },
+  "amogus": {
+    "subtitle": "subtitles.amogus",
+    "sounds": [
+      {
+        "name": "feldsparmod:amogus",
+        "stream": false
+      }
+    ]
+  }
+}

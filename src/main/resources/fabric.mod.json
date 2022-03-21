@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "feldsparmod",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Feldspar Mod",
+  "description": "Useless Mod",
   "authors": [
-    "Me!"
+    "Feldspar!"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/2002luis/crappyMinecraftMod"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.feldspar.feldsparmod.FeldsparMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "feldsparmod.mixins.json"
   ],
 
   "depends": {
